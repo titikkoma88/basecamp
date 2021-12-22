@@ -17,47 +17,51 @@ class CampBenefitTableSeeder extends Seeder
         $campBenefits = [
             [
                 'camp_id' => 1,
-                'name' => 'Daurah Ilmu Sharaf'
+                'name' => 'Pro Techstack Kit'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'Daurah Ilmu Nahwu'
+                'name' => 'iMac Pro 2021 & Display'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'Daurah Ilmu Balaghah'
+                'name' => '1-1 Mentoring Program'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'Pengajar dari dan alumni Timur Tengah'
+                'name' => 'Final Project Certificate'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'Bimbingan Setoran Kosakata'
+                'name' => 'Offline Course Videos'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'Materi E-Module'
+                'name' => 'Future Job Opportinity'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'E-Sertifikat setiap level'
+                'name' => 'Premium Design Kit'
+            ],
+            [
+                'camp_id' => 1,
+                'name' => 'Website Builder'
             ],
             [
                 'camp_id' => 2,
-                'name' => 'Makhraj Huruf'
+                'name' => '1-1 Mentoring Program'
             ],
             [
                 'camp_id' => 2,
-                'name' => 'Ilmu Tajwid'
+                'name' => 'Final Project Certificate'
             ],
             [
                 'camp_id' => 2,
-                'name' => 'Hafalan surat pendek'
+                'name' => 'Offline Course Videos'
             ],
             [
                 'camp_id' => 2,
-                'name' => 'Tenaga Pengajar kompeten'
+                'name' => 'Future Job Opportinity'
             ],
         ]; 
 
